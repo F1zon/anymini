@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<network-security-config>
+    <!-- Только защищённые HTTPS-соединения. Весь незашифрованный (http) трафик
+         запрещён намеренно; сайт anichat.ru полностью работает по https. -->
+    <base-config cleartextTrafficPermitted="false" />
+</network-security-config>
