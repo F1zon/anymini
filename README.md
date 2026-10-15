@@ -6,6 +6,6 @@
 
 ## Скачать
 
-- **APK (Android):** [скачать app-release.apk](https://github.com/F1zon/anymini/releases/download/v1.0.0/app-release.apk)
+- **APK (Android):** [скачать AnyMini.apk](https://github.com/F1zon/anymini/releases/download/v1.0.0/AnyMini.apk)
 
 Установите файл, разрешив установку из неизвестных источников.
